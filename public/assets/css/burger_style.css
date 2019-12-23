@@ -1,0 +1,39 @@
+.jumbotron {
+    text-align: center;
+    background-color: white;
+    background-position: center;
+    height:200px;
+    margin-top: 10px;
+    border-radius:800;
+}
+
+.jumbotron > h1 {
+    font-family: 'Courier', cursive;
+    color: rgb(177, 130, 43);
+}
+
+#newburger {
+    border-radius: 50px;
+}
+
+#color-override {
+    color:black;
+}
+
+#lefthead {
+    background-color: #917f1a;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#eatbutton, #trashbutton {
+    float: right;
+}
+
+#righthead {
+    background-color: #ad6e16;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
